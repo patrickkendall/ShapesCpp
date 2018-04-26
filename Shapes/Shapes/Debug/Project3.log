@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\patri\documents\visual studio 2017\projects\project3\project3\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project3.vcxproj -> c:\users\patri\documents\visual studio 2017\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> c:\users\patri\documents\visual studio 2017\Projects\Project3\Debug\Project3.pdb (Partial PDB)
